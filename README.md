@@ -1,4 +1,4 @@
-#tictactoe
+# Tic-tac-toe
 
 This React Tic Tac Toe project allows two players to compete in the
             classic game on a 3x3 grid. Players take turns placing their
